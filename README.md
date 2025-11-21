@@ -176,7 +176,7 @@ Everything required to run and deploy the model.
 
 ⚙ Installation
 1. Clone the repository
-git clone https://github.com/your-username/employee-attrition.git
+git clone https://github.com/selvakumaran416-sketch/Employee_Attrition_Predictions
 cd employee-attrition
 
 2. Install dependencies
@@ -274,5 +274,3 @@ Probability
 
 SELVAKUMARAN M
 Data Science & Analytics Enthusiast   
-AA📜 LiceA
-TAhis project is licensed under t  AAAAAAAAAAAAAAAAA
