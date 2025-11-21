@@ -65,6 +65,7 @@ Includes preprocessing.pkl and best_model.pkl
 Cleaned dataset for dashboard analytics
 
 🧱 Architecture Diagram
+
                      ┌────────────────────────┐
                      │     Raw Dataset.csv     │
                      └────────────┬────────────┘
@@ -95,6 +96,7 @@ Cleaned dataset for dashboard analytics
                 ┌───────────────────────────────┐
                 │ Prediction + Dashboard Output  │
                 └───────────────────────────────┘
+                
 
 🛠 Tech Stack
 Languages
@@ -273,4 +275,5 @@ Probability
 👨‍💻 Author
 
 SELVAKUMARAN M
+
 Data Science & Analytics Enthusiast   
