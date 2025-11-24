@@ -158,13 +158,13 @@ Promotion history
 
 Output:
 
-✔ "Likely to Leave" OR "Likely to Stay"
+✔ "LIKES TO LEAVE" OR "LIKES TO STAY"
 
 ✔ Probability score
 
 📊 3. ML Model
 
-Random Forest / Logistic Regression
+Random Forest 
 
 Encoded & scaled features
 
@@ -244,11 +244,11 @@ Home Page
 
 Displays:
 
-High-risk employees
+High risk employees
 
-High job satisfaction groups
+High job satisfaction Employees
 
-Work-life balance and income patterns
+Work life balance and income patterns
 
 Prediction Page
 
